@@ -1,0 +1,2 @@
+# Machine-Learning-Driven-Attack-Classification-and-Forecasting-using-Honeypots-
+Compared the performance of multiple classification algorithms, including Logistic Regression, SVM, KNN, and Decision Tree Classifier, to identify the most effective model. And  Built regression models using ARIMA and Random Forest Regression to predict the time and protocol of future attacks, analyzing and comparing their performance. 
